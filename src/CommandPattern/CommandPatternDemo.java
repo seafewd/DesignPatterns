@@ -5,12 +5,12 @@ public class CommandPatternDemo {
 
         Stock abcStock = new Stock();
 
-        BuyStock buyStockOrder = new BuyStock(abcStock);
-        SellStock sellStockOrder = new SellStock(abcStock);
+        BuyOrder buyOrder = new BuyOrder(abcStock);
+        SellOrder sellOrder = new SellOrder(abcStock);
 
         Broker broker = new Broker();
-        broker.takeOrder(buyStockOrder);
-        broker.takeOrder(sellStockOrder);
+        broker.takeOrder(buyOrder);
+        broker.takeOrder(sellOrder);
 
         broker.placeOrders();
     }

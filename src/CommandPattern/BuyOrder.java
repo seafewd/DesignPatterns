@@ -1,9 +1,9 @@
 package CommandPattern;
 
-public class BuyStock implements Order {
+public class BuyOrder implements Order {
     private Stock abcStock;
 
-    BuyStock(Stock abcStock) {
+    BuyOrder(Stock abcStock) {
         this.abcStock = abcStock;
     }
 
