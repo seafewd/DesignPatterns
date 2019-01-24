@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26d28336-c1b0-4e53-bb5a-e9a2df2ff4e1" name="Default Changelist" comment="" />
+    <list default="true" id="26d28336-c1b0-4e53-bb5a-e9a2df2ff4e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Broker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/BuyStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/CommandPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/SellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/command_pattern_uml_diagram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +54,88 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IteratorPattern/IteratorPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CommandPattern/CommandPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CommandPattern/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CommandPattern/Stock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CommandPattern/BuyStock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CommandPattern/SellStock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CommandPattern/Broker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,6 +149,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,6 +193,12 @@
         <option value="$PROJECT_DIR$/src/StatePattern/StartState.java" />
         <option value="$PROJECT_DIR$/src/StatePattern/StopState.java" />
         <option value="$PROJECT_DIR$/src/StatePattern/Context.java" />
+        <option value="$PROJECT_DIR$/src/CommandPattern/Order.java" />
+        <option value="$PROJECT_DIR$/src/CommandPattern/CommandPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/CommandPattern/SellStock.java" />
+        <option value="$PROJECT_DIR$/src/CommandPattern/Broker.java" />
+        <option value="$PROJECT_DIR$/src/CommandPattern/BuyStock.java" />
+        <option value="$PROJECT_DIR$/src/CommandPattern/Stock.java" />
       </list>
     </option>
   </component>
@@ -110,6 +206,9 @@
     <option name="x" value="660" />
     <option name="width" value="1267" />
     <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -129,6 +228,12 @@
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CommandPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548325180780" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548330287124" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -147,6 +252,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/CommandPattern" />
       <recent name="C:\Users\Alexander\Google Drive\Documents\CS BFH\SoED\2018-2019\Projects\DesignPatterns\src\StatePattern" />
       <recent name="C:\Users\Alexander\Google Drive\Documents\CS BFH\SoED\2018-2019\Projects\DesignPatterns\src\ObserverPattern" />
       <recent name="C:\Users\Alexander\Google Drive\Documents\CS BFH\SoED\2018-2019\Projects\DesignPatterns\src\VisitorPattern" />
@@ -168,20 +274,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StatePatternDemo">
+  <component name="RunManager" selected="Application.CommandPatternDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbstractFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractFactoryPattern.AbstractFactoryPatternDemo" />
+    <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommandPattern.CommandPatternDemo" />
       <module name="DesignPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractFactoryPattern.*" />
+          <option name="PATTERN" value="CommandPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,19 +381,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AbstractFactoryPatternDemo" />
       <item itemvalue="Application.CompositePatternDemo" />
       <item itemvalue="Application.VisitorPatternDemo" />
       <item itemvalue="Application.ObserverPatternDemo" />
       <item itemvalue="Application.StatePatternDemo" />
+      <item itemvalue="Application.CommandPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandPatternDemo" />
         <item itemvalue="Application.StatePatternDemo" />
         <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.VisitorPatternDemo" />
         <item itemvalue="Application.CompositePatternDemo" />
-        <item itemvalue="Application.AbstractFactoryPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -307,10 +413,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7891000" />
+    <option name="totallyTimeSpent" value="8846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17668097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,7 +438,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -689,6 +796,78 @@
             <element signature="e#169#170#0" expanded="true" />
             <element signature="e#197#198#0" expanded="true" />
             <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IteratorPattern/IteratorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandPattern/Broker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandPattern/BuyStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandPattern/CommandPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandPattern/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandPattern/SellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandPattern/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
           </folding>
         </state>
       </provider>
